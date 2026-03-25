@@ -1,6 +1,6 @@
 # Hi, I'm Michael Eziuzor 👋
 
-🔐 SOC Analyst | Blue Team | Threat Detection & Incident Response
+🔐 SOC Analyst | Blue Team | Threat Detection & Incident Response | Open to remote & relocation opportunities
 
 ---
 
