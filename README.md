@@ -16,9 +16,9 @@
 
 ## Certifications
 
-- ✅ CompTIA Security+ (2025)
-- ✅ CompTIA Network+ (2025)
-- ✅ Fortinet Certified Fundamentals – FCF (2026)
+- CompTIA Security+ - Course Completion (2025)
+- CompTIA Network+ - Course Completion (2025)
+- Fortinet Certified Fundamentals – FCF (2026)
 
 ---
 
