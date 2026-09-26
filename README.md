@@ -10,15 +10,15 @@
 
 🎓 BSc Physiology, University of Benin (2023)
 
-🐍 Recently built a four project Python security automation portfolio — tools that automate IOC checking, log parsing, threat intelligence enrichment, and full alert queue triage. Tested against real LetsDefend incident data.
+🐍 Recently built a four project Python security automation portfolio : tools that automate IOC checking, log parsing, threat intelligence enrichment, and full alert queue triage. Tested against real LetsDefend incident data.
 
 🌍 Targeting remote SOC Analyst roles in the US, Canada, UK, Australia, Singapore, and New Zealand
 
 ## Certifications
 
-CompTIA Security+ — Course Completion (2025)
-CompTIA Network+ — Course Completion (2025)
-Fortinet Certified Fundamentals — FCF (2026)
+CompTIA Security+ : Course Completion (2025)
+CompTIA Network+ : Course Completion (2025)
+Fortinet Certified Fundamentals (FCF) (2026)
 
 ## Technical Skills
 
@@ -41,17 +41,17 @@ Systems: Windows and Linux Basics, Basic Linux CLI
 🔴 SOC Python Automation Toolkit
 Four production ready Python tools built to automate core SOC workflows.
 
-IOC Checker — instant IP reputation verdict against known malicious IP lists
+IOC Checker : instant IP reputation verdict against known malicious IP lists
 
-Log Parser and Brute Force Detector — automated failed login detection from raw log files
+Log Parser and Brute Force Detector : automated failed login detection from raw log files
 
-Threat Intelligence Aggregator — queries VirusTotal and AbuseIPDB simultaneously, calculates composite risk scores, generates structured investigation reports. Tested against real LetsDefend incident data.
+Threat Intelligence Aggregator : queries VirusTotal and AbuseIPDB simultaneously, calculates composite risk scores, generates structured investigation reports. Tested against real LetsDefend incident data.
 
-Automated Alert Triage Bot — enriches entire alert queues, scores by combined threat intel and alert context, sorts by priority, generates triage reports automatically. Tested against Lazarus APT38 and Apache Tomcat RCE incidents from LetsDefend.
+Automated Alert Triage Bot : enriches entire alert queues, scores by combined threat intel and alert context, sorts by priority, generates triage reports automatically. Tested against Lazarus APT38 and Apache Tomcat RCE incidents from LetsDefend.
 
 📁 [View Repository](https://github.com/Eziuzor-SEC/soc-python-tools)
 
-🔵 SOC Investigations — LetsDefend
+🔵 SOC Investigations : LetsDefend
 Documented incident investigations from the LetsDefend SOC platform including phishing analysis, XSS detection, IOC lookups, and SIEM based alert triage.
 
 📁 [View Writeups](https://github.com/Eziuzor-SEC/SOC-Investigations)
